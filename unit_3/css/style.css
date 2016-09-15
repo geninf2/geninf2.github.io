@@ -1,0 +1,59 @@
+body  {
+    
+    background-image: url("../images/mickeyMinnieCastle_RedBlk_w.jpg");
+    text-align: center;
+    background-size: cover;
+}
+
+hr {
+	width: 	90%;
+}
+
+h1 {
+	font-weight: bold;
+	color: #E190E8;
+}
+
+img {
+	width: 200px;
+	height: 150px;
+	position: absolute;
+   left: 25px;
+}
+
+.im1{
+   top: 455px;
+}
+
+.img2{
+	top: 615px;
+}
+
+.img3{
+ 	top: 775px;
+}
+
+p, ul {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	color: #000;
+}
+
+a {
+	font-style: italic;
+	font-family: "Courier New", monospace;
+	text-decoration: none;
+	color: #FF9DF0;
+}
+
+#slogan {
+	font-weight: bold;
+	font-style: italic;	
+	font-size: 	26px;
+	color: #FDDCFF;
+}
+
+
+.whiteFont{
+	color: #fff;
+}
