@@ -1,10 +1,10 @@
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-    
-    background-image: url("../images/mickeyMinnieCastle_RedBlk_w.jpg");
     text-align: center;
     background-size: cover;
- 	background-color: #F7B9FF;
+    color: #222;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
 }
 
 hr {
@@ -17,9 +17,6 @@ h1 {
 
 img {
 	width: 200px;
-	height: 150px;
-	position: absolute;
-    left: 25px;
 }
 
 .im1{
@@ -34,19 +31,18 @@ img {
  	top: 775px;
 }
 
-p, ul {
-	font-family: Arial, sans-serif;
-	font-size: 18px;
-	color: #000000;
-}
-
 a {
 	font-style: italic;
 	font-family: "Courier New", monospace;
 	text-decoration: underline;
 	color: #FF9DF0;
 }
-
+#splash {
+	background-image: url("../images/mickeyMinnieCastle_RedBlk_w.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+}
 #slogan {
 	font-weight: bold;
 	font-style: italic;	
