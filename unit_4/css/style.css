@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Rancho|UnifrakturMaguntia|Permanent+Marker|Yatra+One); 
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+    text-align: center;
+    background-size: cover;
+    color: #222;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+p {	
+	font-family: 'Patrick Hand SC', cursive;
+}
+
+.hdr {
+	font-family: 'Rancho', cursive;
+}
+
+
+hr {
+	width: 	90%;
+}
+
+h1 {	
+	color: #E190E8;
+}
+
+
+
+img {
+	width: 200px;
+}
+
+.im1{
+   top: 455px;
+}
+
+.img2{
+	top: 615px;
+}
+
+.img3{
+ 	top: 775px;
+}
+
+a {
+	font-style: italic;
+	font-family: "Courier New", monospace;
+	text-decoration: underline;
+	color: #BD22FF;
+}
+#splash {
+	background-image: url("../images/mickeyMinnieCastle_RedBlk_w.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+}
+#slogan {
+	font-weight: bold;
+	font-size: 	30px;
+	color: #FDDCFF;
+}
+
+
