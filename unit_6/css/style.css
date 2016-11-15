@@ -117,7 +117,7 @@ a {
 }
 
 #left {
-	background-color: violet;
+	background-color: violet; 
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
